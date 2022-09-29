@@ -44,3 +44,8 @@ a {
 .search-form {
   margin-bottom: 20px;
 }
+.repository {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
