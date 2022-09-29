@@ -88,7 +88,7 @@ function mainscreenCity(currentCity) {
 function search(event) {
   event.preventDefault();
   let currentCity = document.querySelector("#city-search").value;
-  mainscreenCity(city);
+  mainscreenCity(currentCity);
 }
 
 let searchCity = document.querySelector("#search-form");
